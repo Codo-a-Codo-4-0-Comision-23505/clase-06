@@ -1,17 +1,22 @@
 * {
-    background-color: aquamarine;
+    background-color: aquamarine ;
+}
+
+body {
+    font-family: "Black Ops One", sans-serif;
+    font-size: 16px;
 }
 
 h1 {
     color: red;
-    background-color: blue;
+    background-color: blue ;
 }
 
 /* clase */
 .h1copado {
     color:aqua;
-    background-color:brown;
-    width: 10em;
+    background-color:brown ;
+    width: 50vw;
 }
 
 
